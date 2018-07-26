@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/pb_id_layer_download"
+    android:interpolator="@android:anim/cycle_interpolator"
+    android:duration="10"
+    android:repeatCount="10"
+    android:repeatMode="restart"
+    android:fromDegrees="0"
+    android:pivotX="50%"
+    android:pivotY="50%"
+    android:startOffset="0"
+    android:toDegrees="360" />
+
